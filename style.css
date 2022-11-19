@@ -1,0 +1,136 @@
+.vk {
+    width: 50px;
+    height: 50px;
+    margin: 5px; 
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+  }
+  
+  .bottum_line {
+    width: auto;
+    height: 200px;
+
+
+  }
+  
+  
+  
+  
+  .myPhoto  {
+    width: 240px;
+    height: 240px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+  
+  }
+  
+  
+  .text_h1 {  font-size: 24px;
+    text-transform: uppercase;
+    font-style: italic;
+    font-family: 'William', serif;
+    padding-top: 34px;
+    font-weight: normal;
+    color: white;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+  }
+  body {
+    margin: 0px 0px 0px 0px;
+    height: auto;
+  }
+  
+  .text_h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: 'Inter', sans-serif;
+    margin-top: 0;
+    margin-bottom: 24px;
+    color: white;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+  }
+  .text_h3 {
+  display: flex;
+    font-family: 'William', serif;
+  margin: 0;
+  margin-left: 0;
+  font-size: 15px;
+  text-transform: uppercase;
+  line-height: 18px;
+  font-weight: normal; 
+    color: white;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  
+  
+  
+  p {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    color: link #0000FF;
+  }
+  .video1 {
+display: flex;
+justify-content: center;
+margin: auto;
+  }
+  .video2 {
+    display: flex;
+    justify-content: center;
+    margin: 500px auto;
+    width: 900px;
+
+
+  }
+  
+  .body {
+    text-align: auto;
+    background-image: linear-gradient(180deg, #ffffff 0%, #000000, #000000 100%);
+    width: 100%; 
+    height: 1875px;
+  }
+  footer {
+    border: 5px rgb(12, 12, 12) solid;
+    background-image: linear-gradient(to bottom, #111111 100%, #3F3F3F 100%, #1C1C1C 100%), linear-gradient(to top, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.25) 200%);
+    
+    /* height: 200px; */
+
+  }
+
+  .footer_container {
+    display: flex;
+    justify-content: space-around;
+    height: 200px;
+
+  }
+
+  .footer_menu {
+    display: flex;
+    flex-direction: column;
+    
+    
+
+  }
+  
+  .img_container {
+    display: flex;
+    align-items: center;
+
+
+  }
+  .element_menu {
+    margin: auto;
+    text-decoration: none;
+    color: #e7e7e7;
+  }
