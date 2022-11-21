@@ -9,6 +9,18 @@
     flex-direction: column;
   
   }
+  .discord {
+    width: 50px;
+    height: 50px;
+    margin: -10px; 
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+
+  }
   
   .bottum_line {
     width: auto;
@@ -38,7 +50,7 @@
     font-family: 'William', serif;
     padding-top: 34px;
     font-weight: normal;
-    color: white;
+    color: rgb(73, 73, 73);
     margin: auto;
     justify-content: center;
     display: flex;
@@ -54,7 +66,7 @@
     font-family: 'Inter', sans-serif;
     margin-top: 0;
     margin-bottom: 24px;
-    color: white;
+    color: rgb(75, 75, 75);
     margin: auto;
     display: flex;
     justify-content: center;
@@ -68,17 +80,27 @@
   text-transform: uppercase;
   line-height: 18px;
   font-weight: normal; 
-    color: white;
+    color: rgb(10, 10, 10);
     margin: 0 auto;
     justify-content: center;
   }
   
-  
-  
-  p {
+  .p1 {
+    font-family: 'Inter', sans-serif ;
+    text-align: center;
+    color: link #0000FF;
+    text-decoration: none;
+  }
+  .a1 {
+    text-decoration: none;
+    color: #ffffff;
+
+  }
+  .p2 {
     font-family: 'Inter', sans-serif;
     text-align: center;
     color: link #0000FF;
+    text-decoration: none;
   }
   .video1 {
 display: flex;
@@ -88,7 +110,7 @@ margin: auto;
   .video2 {
     display: flex;
     justify-content: center;
-    margin: 500px auto;
+    margin: 600px auto;
     width: 900px;
 
 
